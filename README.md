@@ -1,7 +1,7 @@
 # Torus
 THE solar system creation game
 
-BEFORE READING OR PLAYING OPEN AND INSTALL THE "PYTHON.exe FILE"!
+BEFORE READING OR PLAYING DOWNLOAD PYTHON ON YOUR PC!
 
 This is a basic game
 
