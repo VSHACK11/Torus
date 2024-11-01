@@ -1,7 +1,7 @@
 # Torus
 THE solar system creation game
 
-BEFORE READING OR PLAYING DOWNLOAD PYTHON ON YOUR PC!
+https://torus-vshack11.glitch.me/
 
 This is a basic game
 
